@@ -14,7 +14,7 @@ st.set_page_config(layout="wide", page_title="The EDA App", page_icon=":rocket:"
 
 # Web App Title
 st.markdown('''
-# **The EDA App**
+# **Data Explorer**
 
 This is the **EDA App** created in Streamlit using the **pandas-profiling** library.
 
