@@ -43,6 +43,6 @@ The Data Explorer App is a user-friendly web application designed for Explorator
 - Chokkapu Monisha/ @chokkapumonisha
 ## Feedback and Support
 
-For any issues or suggestions, please contact nithinchode@gmail.com. We appreciate your feedback!
+For any issues or suggestions, please contact chokkapumonisha@gmail.com. We appreciate your feedback!
 
 ---
