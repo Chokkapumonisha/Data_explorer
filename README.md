@@ -2,8 +2,6 @@
 [EDA APP]
 [https://dataexplorer-hebs1of5hzi.streamlit.app/](https://dataexplorer-hebs1of5hzi.streamlit.app/)
 
-# Data Explorer App README
-
 ## Overview
 
 The Data Explorer App is a user-friendly web application designed for Exploratory Data Analysis (EDA) and data preprocessing tasks. It allows users to upload CSV files and generates detailed reports using y_data profiling, enabling users to gain insights into their data, identify missing values, visualize data distributions, and more. The app offers various visualization options such as scatter plots, line plots, bar plots, count plots, histograms, box plots, heatmaps, and pair plots, allowing users to explore relationships between different attributes in their dataset. Additionally, users can preprocess their data by replacing missing values, converting categorical data to numerical using label encoding, and removing duplicate values.
