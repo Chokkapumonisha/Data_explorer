@@ -39,8 +39,9 @@ The Data Explorer App is a user-friendly web application designed for Explorator
 
 ## Contributors
 
-- Chode Nithin/ @Chode-Nithin
 - Chokkapu Monisha/ @chokkapumonisha
+- Chode Nithin/ @Chode-Nithin
+
 ## Feedback and Support
 
 For any issues or suggestions, please contact chokkapumonisha@gmail.com. We appreciate your feedback!
