@@ -63,7 +63,6 @@ def convert_categorical_to_numerical(df):
 
 # Main Streamlit app
 def main():
-    st.set_option('deprecation.showPyplotGlobalUse', False)
     global uploaded_file
 
     if uploaded_file is not None:
